@@ -1,2 +1,0 @@
-# portfolio
-bvikstedt.github.io
